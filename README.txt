@@ -69,6 +69,10 @@
 		Added:
 			~ 1
 				(Branch)
+	**VERSION 0.2**
+		- Merged '1' into '0'
+		- Local M4PJSMemory fully up to date for push to remote
+		- Pushed local repo changes and updates to Remote M4PJSMemory
 				
 **BRANCH 1**
 	**VERSION 1.0**
